@@ -15,5 +15,5 @@
   
   [Google Breakpad](https://chromium.googlesource.com/breakpad/breakpad/) (Google Inc.)
   
- **Lisensi aplikasi ini adalah LGPL v3**
+ **Lisensi aplikasi ini adalah GPL v3**
  
