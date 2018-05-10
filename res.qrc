@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Picture1.png</file>
+        <file>save-26.png</file>
+        <file>folder-26.png</file>
+        <file>lock-26.png</file>
+    </qresource>
+</RCC>
